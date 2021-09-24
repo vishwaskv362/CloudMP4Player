@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808003035991",
+    "project_id": "cloudvideo-780c7",
+    "storage_bucket": "cloudvideo-780c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808003035991:android:4695990fbc2e59ac861412",
+        "android_client_info": {
+          "package_name": "com.kv.cloudvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808003035991-co798j6ksu32852fg11ikilv1gc8e0f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBb_OQxJ434gzRxuvTbcrJh4VZ1MNmFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808003035991-co798j6ksu32852fg11ikilv1gc8e0f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
